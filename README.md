@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-The Prework Study Guide summarizes key functions and commmands for HTML, CSS, Git, and JavaScript. The text can also be edited at any time through HTML and Git. To get study suggestions from the JavaScript topic generator, press the keys Ctrl+Shift+I (Windows) or Command+Option+I (macOS). Chrome's DevTool console will appear with a list of study topics and what to study first.
+The Prework Study Guide summarizes key functions and commmands for HTML, CSS, Git, and JavaScript. The text can also be edited at any time through HTML and Git. To get study suggestions from the JavaScript topic generator, press the keys Ctrl+Shift+I (Windows) or Command+Option+I (macOS). Click on Chrome's DevTool console to reveal a list of study topics with a topic to study first.
 
 ## Credits
 
